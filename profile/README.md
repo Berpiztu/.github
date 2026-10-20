@@ -15,13 +15,6 @@ created and maintains the projects below.
 | **[WSLC AI Agent](https://github.com/Berpiztu/wslc-ai-agent)** | Local agent and MCP server for WSLC (Windows Subsystem for Linux Containers): a web dashboard, Windows and Android clients, and a skill for Claude and other AI agents |
 | **[security-watch](https://github.com/Berpiztu/security-watch)** | The libraries Berpiztu's projects use, checked every day against the known vulnerabilities, each library once for all of them |
 
-## Forks we build on
-
-[mxc](https://github.com/Berpiztu/mxc) (from microsoft/mxc),
-[openboard](https://github.com/Berpiztu/openboard) (from erkserkserks/openboard) and
-[neural-swipe-typing](https://github.com/Berpiztu/neural-swipe-typing) (from proshian/neural-swipe-typing)
-are forks kept here for our own work. The credit for them belongs to their authors.
-
 ## Contact
 
 [berpiztu.ai](https://berpiztu.ai) · GitHub [@Iosub-ai](https://github.com/Iosub-ai) · X [@iosuberpiztu](https://x.com/iosuberpiztu)
